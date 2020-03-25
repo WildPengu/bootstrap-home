@@ -1,0 +1,19 @@
+hr {
+  width: 200px;
+}
+
+h2 {
+  color: #dedede;
+}
+
+.item-container i {
+  color: orange;
+  font-size: 60px;
+}
+
+.circle {
+  background-color: #ebebeb;
+  border-radius: 50px;
+  height: 90px;
+  width: 90px;
+}
