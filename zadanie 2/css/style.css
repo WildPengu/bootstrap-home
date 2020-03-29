@@ -1,0 +1,17 @@
+.mb-0 .btn {
+  color: orange;
+}
+
+.card-header {
+  display: flex;
+  justify-content: center;
+}
+
+.faq {
+  color: #dddddd;
+  text-align: center;
+}
+
+hr {
+  width: 120px;
+}
